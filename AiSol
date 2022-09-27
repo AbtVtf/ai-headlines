@@ -1,0 +1,23 @@
+AiSol
+I need a PART_OF_AD for a PRODUCTS_TYPES called PRODUCT_NAME with a target audience of TARGET_AUDIENCE. The products main attributes are MAIN_ATTRIBUTES. The keywords are KEYWORDS.
+
+KEYWORDS
+MAIN_ATTRIBUTES
+TARGET_AUDIENCE
+PRODUCT_NAME
+PRODUCTS_TYPES
+
+PART_OF_AD:
+- Post caption
+- Product description
+- Slogan
+- Call to action
+
+- Social media advertising
+    - Facebook
+    - Linkedin
+    - Twitter
+    - Instagram
+
+
+
